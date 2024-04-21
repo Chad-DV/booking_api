@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Compiled Python files
+*.pyc
+
+# Editor/IDE files
+.vscode/
+.devcontainer/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System and hidden files
+.DS_Store
+Thumbs.db
